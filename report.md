@@ -1,0 +1,1 @@
+# In the Git and GitHub lab, I learned how to save changes to my code using Git. I practiced basic commands like git commit and git push, which help me keep track of my work and updates
